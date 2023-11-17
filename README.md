@@ -1,3 +1,7 @@
+# ⚠️ repo moved ⚠️
+This repo is no loger active.
+The image was moved to [LuckyTurtleDev/docker-images](https://github.com/LuckyTurtleDev/docker-images/tree/main/dockerfiles/yt-dlp).
+
 # youtube-dl-cron docker image
 Simple multiplatform docker image for youtube-dl with crond. Based on alpine.
 
